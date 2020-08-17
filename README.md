@@ -6,5 +6,5 @@ powerd by laravel 6
 ## AUTHORS	
 mohsen baghri
 
-##INSTALL
+## INSTALL
 run db:seed for user create 
